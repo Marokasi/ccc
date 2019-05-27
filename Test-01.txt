@@ -1,3 +1,7 @@
 
 Created on the web.
+<<<<<<< HEAD
 Created from "channed on the web".
+=======
+Created from the "changed in the local repository".
+>>>>>>> my comit
