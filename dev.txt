@@ -1,3 +1,1 @@
-This is my development branch.
-I am doing testing and all the stuff here.
-This change was made by me in my dev branch.
+This is not finished yet, so it should stay in the development stage for now.
