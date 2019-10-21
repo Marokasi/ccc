@@ -1,4 +1,2 @@
 I want to save this change.
 This is a part of the code which shoutld be sent for the review.
-
-to remove from the commitS
